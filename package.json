@@ -1,5 +1,5 @@
 {
-  "name": "clock-panel",
+  "name": "hello-world-panel",
   "version": "1.0.0",
   "description": "Hello world",
   "main": "src/module.js",
@@ -8,10 +8,6 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "clock",
-    "grafana",
-    "plugin",
-    "panel"
   ],
   "author": "Raintank",
   "license": "MIT",

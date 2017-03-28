@@ -9,7 +9,7 @@
       "name": "HelloWorldLabs",
       "url": "https://grafana.com"
     },
-    "keywords": ["clock", "panel"],
+    "keywords": [],
     "logos": {
       "small": "src/img/clock_panel_logo.svg",
       "large": "src/img/clock_panel_logo.svg"
