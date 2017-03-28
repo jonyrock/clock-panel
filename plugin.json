@@ -1,12 +1,12 @@
 {
   "type": "panel",
-  "name": "Clock",
-  "id": "grafana-clock-panel",
+  "name": "HelloWorld",
+  "id": "grafana-hello-world-why-not-panel",
 
   "info": {
-    "description": "Clock panel for grafana",
+    "description": "HelloWorld panel for grafana",
     "author": {
-      "name": "GrafanaLabs",
+      "name": "HelloWorldLabs",
       "url": "https://grafana.com"
     },
     "keywords": ["clock", "panel"],
